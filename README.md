@@ -1,16 +1,18 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=250&section=header&text=🕷️%20SPIDEY%20OFFICIAL%20🕷️&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=『%20Crafting%20Digital%20Excellence%20|%20Coding%20The%20Future%20』&descAlignY=58&descSize=22&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=250&section=header&text=%20SPIDEY%20OFFICIAL%20&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=『%20Crafting%20Digital%20Excellence%20|%20Coding%20The%20Future%20』&descAlignY=58&descSize=22&descAlign=50" />
 
 </div>
 
 <!-- Animated Typing Banner -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=120&lines=✨+Welcome+to+My+Digital+Universe+✨;🚀+Full+Stack+Dev+%7C+AI+Enthusiast+%7C+Cloud+Architect+☁️;💻+Open+Source+Contributor+%7C+Tech+Innovator+🔥;🌟+Building+Tomorrow's+Solutions+Today+🌟" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1200&color=FF1178&center=true&vCenter=true&repeat=true&width=1000&height=120&lines=%E2%9C%A8+Welcome+to+My+Digital+Universe+%E2%9C%A8;%F0%9F%9A%80+Full+Stack+Dev+%7C+AI+Enthusiast+%7C+Cloud+Architect+%E2%98%81%EF%B8%8F;%F0%9F%92%BB+Open+Source+Contributor+%7C+Tech+Innovator+%F0%9F%94%A5;%F0%9F%8C%9F+Building+Tomorrow%27s+Solutions+Today+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
 </p>
+
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
