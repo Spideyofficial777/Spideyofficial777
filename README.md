@@ -538,9 +538,9 @@ Experience:
 
 <br>
 
-```javascript
+```python
 // Last Updated: October 2025
-console.log("Keep Learning, Keep Building! 🚀");
+print("Keep Learning, Keep Building! 🚀");
 ```
 
 <br>
