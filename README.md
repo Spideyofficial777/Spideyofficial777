@@ -539,7 +539,7 @@ Experience:
 <br>
 
 ```python
-// Last Updated: October 2025
+#Last Updated: October 2025
 print("Keep Learning, Keep Building! 🚀");
 ```
 
