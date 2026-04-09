@@ -540,7 +540,7 @@ Experience:
 
 ```python
 #Last Updated: april 2026
-print("Keep Learning, Keep Building! 🚀");
+print("Keep Learning, Keep Building! 🚀")
 ```
 
 <br>
