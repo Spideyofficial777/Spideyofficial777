@@ -132,7 +132,7 @@ spidey.sayHi();
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=spideyofficial777&show_icons=true&count_private=true&hide_border=true&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&bg_color=0D1117&border_radius=15&include_all_commits=true&custom_title=🔥%20GitHub%20Stats%20🔥" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=spideyofficial777&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&border_radius=15&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=spideyofficial777&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&border_radius=15&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -303,9 +303,9 @@ const interests = [
 <h2 align="center">🐍 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐒𝐧𝐚𝐤𝐞</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spideyofficial777/spideyofficial777/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spideyofficial777/spideyofficial777/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spideyofficial777/spideyofficial777/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spideyofficial777/spideyofficial777/output/github-contribution-grid-snake-dark.svg?raw=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spideyofficial777/spideyofficial777/output/github-contribution-grid-snake.svg?raw=1">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spideyofficial777/spideyofficial777/output/github-contribution-grid-snake.svg?raw=1">
 </picture>
 
 ---
@@ -550,3 +550,11 @@ print("Keep Learning, Keep Building! 🚀")
 </a>
 
 </div>
+
+
+<!-- NOTE:
+If GitHub Stats, Snake, Trophies or other cards do not appear:
+1. Ensure the GitHub Actions workflow generated the output branch.
+2. Enable Actions permissions (Read and write).
+3. Wait a few minutes for external services to refresh.
+-->
