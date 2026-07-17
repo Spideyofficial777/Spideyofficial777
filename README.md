@@ -147,7 +147,7 @@ spidey.sayHi();
 
 <!-- Trophy Section -->
 <p align="center">
-  <img src="https://spidey-github-trophy.vercel.app/?username=spideyofficial777&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=8&title=Commits,Stars,Followers,Repositories,Issues,PullRequest,MultiLanguage,Experience" alt="GitHub Trophies" width="98%" />
+  <img src="https://github-trophies.vercel.app/?username=spideyofficial777&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=8&title=Commits,Stars,Followers,Repositories,Issues,PullRequest,MultiLanguage,Experience" alt="GitHub Trophies" width="98%" />
 </p>
 
 ---
