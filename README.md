@@ -355,7 +355,7 @@ Other        45 mins         ░░░░░░░░░░░░░░░░░
 ### 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐓𝐫𝐨𝐩𝐡𝐲
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spideyofficial777&theme=discord&no-frame=true&no-bg=false&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=spideyofficial777&theme=discord&no-frame=true&no-bg=false&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </p>
 
 <br>
